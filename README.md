@@ -1,6 +1,6 @@
 # MAD-workshop2
 
-## Create a simple application for division of two number using explicit intent in android studio.
+
 
 ## AIM:
 To Create a simple application for division of two number using explicit intent in android studio.
