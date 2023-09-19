@@ -108,3 +108,10 @@ int opt=i.getIntExtra("key",0); soln.setText(Integer.toString(opt));
 }
 
 ```
+
+## OUTPUT:
+
+![image](https://github.com/ashmistalin/MAD-workshop2/assets/103128410/c657f09f-2cdb-44b3-8419-68ff810648d6)
+![image](https://github.com/ashmistalin/MAD-workshop2/assets/103128410/6a5f1c2d-9243-44bf-a3d8-646f47eeeaf1)
+![image](https://github.com/ashmistalin/MAD-workshop2/assets/103128410/2706d183-85f9-4978-a1a2-dc22aca4a919)
+
